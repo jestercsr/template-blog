@@ -8,7 +8,7 @@ export default function Footer() {
       initial={{ opacity: 0, y: 50 }}
       animate={{ opacity: 1, y: 0 }}
       transition={{ duration: 0.5 }}
-      className="bg-blue-600 text-white px-6 py-10 mt-16"
+      className="bg-blue-600 text-white px-6 py-10 mt-auto"
     >
       <div className="max-w-6xl mx-auto grid md:grid-cols-3 gap-8">
         <div>
